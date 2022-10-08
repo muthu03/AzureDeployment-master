@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mltrial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDF4311722794EBAA8BA94A5688EF0BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_794EF200B44B42A9A1583F5B6CCAE318 }}
